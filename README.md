@@ -1,3 +1,3 @@
 # First Project
 
-This is my first project Spotify Clone using HTML and CSS.
+This is my first ui project Spotify Clone using HTML and CSS.
